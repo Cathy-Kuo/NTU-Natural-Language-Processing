@@ -1,0 +1,6 @@
+numpy==1.19.5
+torch==1.7.1
+tqdm==4.56.2
+json==2.0.9
+sklearn==0.24.1
+transformers==4.5.0
